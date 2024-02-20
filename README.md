@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a technical writer who is passionate about technology and creating documentation. Check out my portfolio below to see some writing (and non-writing) samples.
+I am a technical writer who is passionate about technology and creating documentation. Check out my portfolio below for samples.
 
 <!--
 **aaronschmaltz/aaronschmaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
